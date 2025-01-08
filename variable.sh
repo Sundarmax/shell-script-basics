@@ -28,3 +28,7 @@ echo "PRICE value outside the function": $PRICE
 
 echo $PWD # ENV 
 echo $UID # ENV
+
+declare -i serialNumber=6677
+
+echo $serialNumber
