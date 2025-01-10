@@ -17,3 +17,12 @@ done
 echo ${numbers[0]}
 echo ${numbers[1]}
 echo ${nums[1]}
+
+# add
+nums[3]=15
+
+#print all elements
+echo ${nums[@]}
+
+#return length
+echo ${#nums[@]}
