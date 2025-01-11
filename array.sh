@@ -1,3 +1,9 @@
+#!/bin/bash
+
+: '
+ARRAYS IN SHELL SCRIPT.
+
+'
 # declare
 nums=(1 3 12)
 numbers=("one" "two" "three")

@@ -1,4 +1,9 @@
 #!/bin/bash
+
+: '
+SHELL SCRIPT
+VARIABLES
+'
 num1=5
 echo $num1
 readonly num1 # The readonly keyword prevents a variable from being updated, effectively turning it into a constant.
