@@ -1,3 +1,7 @@
 redirect.sh
 test.txt
 useradd.sh
+total 12
+-rwxrwxrwx 1 root root 231 Feb  5 22:52 redirect.sh
+-rw-r--r-- 1 root root  32 Feb  5 22:53 test.txt
+-rwxrwxrwx 1 root root 269 Feb  4 00:50 useradd.sh
