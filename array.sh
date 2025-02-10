@@ -32,3 +32,6 @@ echo ${nums[@]}
 
 #return length
 echo ${#nums[@]}
+
+# accces items on specific index.
+echo ${nums[1]}
