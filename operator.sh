@@ -43,3 +43,16 @@ fi
 if [ -n "$str1" ]; then
     echo "string is not empty"
 fi
+
+# file 
+
+file="array.sh"
+
+if [ -e "$file" ]; then
+    echo "$file exists"
+fi
+
+# increment
+
+((x++))
+echo $x
