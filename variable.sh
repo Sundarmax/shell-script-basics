@@ -3,6 +3,7 @@
 : '
 SHELL SCRIPT
 VARIABLES
+LOCAL, READONLY, UNSET, ENV
 '
 num1=5
 echo $num1
