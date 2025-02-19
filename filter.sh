@@ -11,3 +11,5 @@ ls -l | grep "sundar" # print dir after delete
 # grep
 ls -l | grep "variable" # matches
 ls -l | grep -v "variable" # get all unmatched contents.
+
+# grep -r "pattern" path
